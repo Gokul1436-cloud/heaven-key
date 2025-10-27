@@ -1,0 +1,1853 @@
+@media screen and (max-width:1700px) {
+    .inner-about .about-overlay-1 {
+        top: 8%;
+        right: 6%;
+    }
+
+    .cat-inner-content a {
+        font-size: 16px;
+        border: 2px solid #fff;
+        padding: 5px 10px;
+    }
+
+    .cta-overlay {
+        position: absolute;
+        top: 0;
+        left: 70%;
+        width: 16%;
+    }
+
+    .benifits-right .item,
+    .benifits-left .item {
+        width: 100%;
+        max-width: 450px;
+
+    }
+}
+
+@media screen and (max-width:1600px) {
+    .inner-about .about-overlay-1 {
+        top: 8%;
+        right: 2%;
+    }
+
+    .inner-about .about-overlay-2 {
+        position: absolute;
+        top: 68%;
+        right: 38%;
+    }
+
+    .about-overlay-image {
+        position: absolute;
+        right: 16%;
+    }
+}
+
+@media screen and (max-width:1440px) {
+    .inner-about .about-overlay-1 {
+        top: 8%;
+        right: -2%;
+    }
+
+    .inner-about .about-overlay-2 {
+        position: absolute;
+        top: 68%;
+        right: 33%;
+    }
+
+    .inner-services .container-fluid {
+        width: 100%;
+    }
+
+    .service-content {
+        padding: 10px 14px;
+    }
+
+    .cat-inner-content {
+        position: absolute;
+        top: 65%;
+        left: 77%;
+    }
+
+    .inner-cta {
+        width: 100%;
+        height: 353px;
+    }
+
+    .cat-inner-content {
+        position: absolute;
+        top: 55%;
+    }
+
+    .project-main-overlay {
+        padding: 50px 38px 32px 41px;
+    }
+
+    .about-overlay-image {
+        position: absolute;
+        right: 11%;
+    }
+
+    .about-overlay-image img {
+        width: 90%;
+    }
+
+    .inner-about-faq .container-fluid {
+        width: 95%;
+    }
+
+    .faq-img {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .faq-img img {
+        width: 80%;
+    }
+
+    .faq-left .accordion-button {
+        font-size: 18px;
+        padding: 10px 15px;
+
+    }
+
+    .inner-about-faq .container-fluid {
+        width: 90%;
+    }
+
+    .about-points {
+        gap: 10px;
+    }
+
+    .inner-benefits .main-head {
+        font-size: 30px;
+    }
+
+    .inner-benefits .container-fluid {
+        width: 95%;
+    }
+
+    .benefit-card {
+        padding: 25px 20px 20px 35px;
+    }
+
+    .project-inner .container-fluid {
+        width: 90%;
+    }
+
+    .inner-form .form-overlay-1 img {
+        width: 40%;
+    }
+
+    .services-head .main-head {
+        font-size: 28px;
+    }
+
+    .services-inner .service-overlay-1 img {
+        width: 25%;
+    }
+
+    .benifits-right .item,
+    .benifits-left .item {
+        width: 100%;
+        max-width: 380px;
+
+    }
+
+    .benifits-center img {
+        width: 80%;
+    }
+
+    .inner-benifits .row {
+        padding: 70px 0px;
+    }
+
+    .inner-benifits .main-head {
+        font-size: 26px;
+    }
+
+    .inner-project-cta .container-fluid::before {
+        top: -17%;
+    }
+
+    .inner-project-cta .container-fluid::after {
+        bottom: -42%;
+    }
+
+    .project-cta-left h2 {
+        font-size: 34px;
+    }
+
+    .right-project img {
+        width: 85%;
+    }
+
+    .product-detail-overlay-1 {
+        position: absolute;
+        right: -15%;
+        bottom: 76%;
+    }
+
+    .product-detail-overlay-1 img {
+        width: 28%;
+    }
+
+    .sub-banner-projet h2 {
+        font-size: 46px;
+    }
+
+    .project-main-overlay .custom-nav .custom-prev {
+        left: -12%;
+    }
+
+    .project-main-overlay .custom-nav .custom-next {
+        right: 3%;
+    }
+}
+
+@media screen and (max-width:1300px) {
+    .item-2 {
+        position: absolute;
+        right: 65%;
+        top: 50%;
+        text-align: right;
+    }
+
+    .item-1,
+    .item-3 {
+        position: absolute;
+        right: 58%;
+    }
+
+    .item-4,
+    .item-6 {
+        position: absolute;
+        left: 58%;
+    }
+
+    .item-5 {
+        position: absolute;
+        left: 65%;
+        top: 50%;
+        text-align: left;
+    }
+
+    .product-detail-overlay-1 {
+        right: -22%;
+    }
+
+
+
+}
+
+@media screen and (max-width:1199px) {
+    .about-right img {
+        width: 80%;
+    }
+
+    .inner-about .about-overlay-1 img {
+        width: 55%;
+    }
+
+    .inner-about .about-overlay-1 {
+        top: 8%;
+        right: -6%;
+    }
+
+    .inner-about .about-overlay-2 {
+        position: absolute;
+        top: 64%;
+        right: 28%;
+    }
+
+    .inner-about .about-overlay-2 img {
+        width: 55%;
+    }
+
+    .product-detail-overlay-1 img {
+        width: 20%;
+    }
+
+    .product-detail-overlay-1 {
+        right: -26%;
+    }
+
+
+    .service-content {
+        padding: 0px 12px
+    }
+
+    .service-content h3 {
+        font-size: 18px;
+    }
+
+    .service-content p {
+        font-size: 14px;
+    }
+
+    .cta-overlay {
+        position: absolute;
+        top: 0;
+        left: 68%;
+        width: 20%;
+    }
+
+    .contact-left {
+        padding: 40px 20px;
+    }
+
+    .inner-project .custom-btn {
+        margin: 10px 0px 0px 0px;
+    }
+
+    .inner-project .main-head {
+        font-size: 30px;
+    }
+
+    .project-main-overlay {
+        top: 50%;
+        left: 65%;
+    }
+
+    .project-overlay-1 img {
+        width: 50%;
+    }
+
+    .project-overlay-3 img {
+        width: 58%;
+    }
+
+    .project-overlay-3 {
+        position: absolute;
+        top: 75%;
+        left: 82%;
+    }
+
+    .project-overlay-2 {
+        position: absolute;
+        top: 86%;
+        left: 71%;
+    }
+
+    .about-overlay-image img {
+        width: 80%;
+    }
+
+    .about-overlay-image {
+        position: absolute;
+        top: -5%;
+        right: 3%;
+    }
+
+    .subbanner-inner .subbanner-para {
+        position: absolute;
+        right: 4%;
+    }
+
+    .subbanner-inner .breadcrumbs {
+        position: absolute;
+        bottom: 16%;
+        left: 12%;
+    }
+
+    .subbanner-inner .projet-breadcrumbs {
+        position: absolute;
+        top: 70%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        z-index: 10;
+        padding: 8px 16px;
+        border-radius: 30px;
+        font-size: 18px;
+        display: inline-block;
+    }
+
+
+
+    .cta-left .custom-btn a {
+        font-size: 14px;
+        font-weight: 600;
+        color: var(--color-primary);
+        border: 2px solid var(--color-secondary);
+        padding: 5px 29px;
+    }
+
+    .cta-left h4 {
+        font-size: 18px;
+    }
+
+    .cta-left h2 {
+        font-size: 24px;
+    }
+
+    .inner-about-faq .container-fluid {
+        width: 100%;
+    }
+
+    .right-about p {
+        text-align: justify;
+    }
+
+    .benefit-card p {
+        font-size: 14px;
+    }
+
+    .benefit-card {
+        padding: 25px 10px 10px 35px;
+    }
+
+    .benefit-card h3 {
+        font-size: 22px;
+    }
+
+    .project-inner .container-fluid {
+        width: 95%;
+    }
+
+    .project-inner .main-head {
+        font-size: 25px;
+    }
+
+    .item {
+        width: 100%;
+        max-width: 360px;
+    }
+
+    .inner-benifits .row {
+        padding: 121px 0px;
+    }
+
+    .inner-project-cta .container-fluid::after {
+        bottom: -40%;
+    }
+
+    .project-cta-left h2 {
+        font-size: 28px;
+    }
+
+    .benifits-overlay img {
+        width: 40%;
+    }
+
+    .inner-project-cta .cta-overlay-1 img {
+        width: 60px;
+    }
+
+    .inner-benefits .main-head {
+        font-size: 24px;
+    }
+
+
+}
+
+@media screen and (max-width:1100px) {
+    .inner-about .about-overlay-1 {
+        top: 8%;
+        right: -10%;
+    }
+
+    .inner-about-faq .container-fluid {
+        width: 99%;
+    }
+
+}
+
+
+@media screen and (max-width:991px) {
+    footer .contact-number a {
+        font-size: 60px;
+    }
+
+    .faq-right img {
+        width: 85%;
+        border-radius: 5px;
+    }
+
+    .inner-project .custom-btn a {
+        padding: 6px 20px
+    }
+
+    .inner-project .main-head {
+        font-size: 28px;
+    }
+
+    .inner-about .container {
+        max-width: 850px !important;
+    }
+
+    .inner-about .about-overlay-1 {
+        top: 8%;
+        right: -15%;
+    }
+
+    .project-cta-right img {
+        width: 65%;
+    }
+
+    .inner-about .about-overlay-2 {
+        position: absolute;
+        top: 64%;
+        right: 23%;
+    }
+
+    .service-content h3 {
+        font-size: 24px;
+    }
+
+    .service-content p {
+        font-size: 16px;
+    }
+
+    .cta-overlay {
+        position: absolute;
+        top: 0;
+        left: 67%;
+        width: 20%;
+    }
+
+    .cat-inner-content a {
+        font-size: 14px;
+    }
+
+    .inner-form .container {
+        max-width: 820px !important;
+    }
+
+    .contact-right {
+        padding: 20px 2px
+    }
+
+    .project-main-overlay {
+        padding: 20px 18px 32px 25px;
+    }
+
+    .project-overlay-1 {
+        position: absolute;
+        top: 18%;
+        left: 31%;
+    }
+
+    .project-overlay-2 {
+        position: absolute;
+        top: 92%;
+        left: 58%;
+    }
+
+    .img-left {
+        justify-content: start;
+    }
+
+    .img-left img {
+        width: 35%;
+    }
+
+    .about-overlay-image img {
+        width: 70%;
+    }
+
+    .about-overlay-image {
+        position: absolute;
+        top: 0%;
+        right: 0%;
+    }
+
+    .inspired-left {
+        width: 100%;
+        max-width: 650px;
+        padding-left: 5px;
+    }
+
+    .inner-inspired .container {
+        max-width: 850px !important;
+    }
+
+    .inspired-left p {
+        font-size: 16px;
+        text-align: justify;
+    }
+
+    .main-head {
+        font-size: 28px;
+    }
+
+    .about-shape-4 img {
+        width: 41%;
+    }
+
+    .about-shape-4 {
+        position: absolute;
+        top: -2%;
+        left: 4%;
+        z-index: 9;
+    }
+
+    .about-shape-6 {
+        position: absolute;
+        top: 29%;
+        left: 0%;
+    }
+
+    .about-shape-8 img {
+        width: 50%;
+    }
+
+    .about-shape-8 {
+        position: absolute;
+        bottom: -1%;
+        left: 35%;
+    }
+
+    .inner-about-2 {
+        padding: 25px 0px 50px 0px !important;
+    }
+
+    .subbanner-inner {
+        height: 370px;
+    }
+
+    .sub-banner-title h2 {
+        font-size: 45px;
+    }
+
+    .sub-banner-projet h2 {
+        font-size: 36px;
+    }
+
+    .faq-left {
+        padding: 10px 0px;
+    }
+
+
+
+    .faq-img img {
+        width: 70%;
+    }
+
+    .left-about img {
+        width: 60%;
+    }
+
+    .inner-choose .overlay-about-2 {
+        position: absolute;
+        top: 78%;
+        right: -11%;
+    }
+
+    .project-inner .main-head {
+        font-size: 20px;
+    }
+
+    .project-inner .project-header img {
+        border-radius: 200px;
+        width: 60px;
+        margin: 0 6px;
+
+    }
+
+    .filter-btns .btn {
+        padding: 5px 12px;
+        font-size: 14px;
+    }
+
+    .inner-form .form-overlay-1 {
+        top: 5%;
+    }
+
+    .right-project {
+        display: none;
+    }
+
+    .project-inner {
+        padding: 10px 0px;
+    }
+
+    .benifits-center img {
+        max-width: 50%;
+        width: 100%;
+        opacity: 0.2;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .benifits-right .item,
+    .benifits-left .item {
+        width: 100%;
+        max-width: 370px;
+    }
+
+    .benifits-left .item-1,
+    .benifits-left .item-2,
+    .benifits-left .item-3 {
+        position: absolute;
+        right: 53%;
+    }
+
+    .benifits-right .item-4,
+    .benifits-right .item-5,
+    .benifits-right .item-6 {
+        position: absolute;
+        left: 53%;
+    }
+
+    .inner-benifits .row {
+        padding: 30px 0px;
+    }
+
+    .benifits-center {
+        display: none;
+    }
+
+    .inner-project-cta .container-fluid::after {
+        bottom: -52%;
+    }
+
+    .inner-project-cta .container-fluid::before {
+        top: -22%;
+    }
+
+    .project-cta-section .container-fluid {
+        width: 95%;
+    }
+
+    .product-detail-overlay-1 {
+        position: absolute;
+        right: -32%;
+        bottom: 72%;
+    }
+
+    .custom-prev {
+        left: -10%;
+    }
+
+    .project-main-overlay .custom-nav .custom-next,
+    .project-main-overlay .custom-nav .custom-prev {
+        width: 35px;
+        height: 35px;
+        font-size: 16px;
+    }
+
+    .project-main-overlay .custom-nav .custom-prev {
+        left: -8%;
+    }
+
+    .project-main-overlay .custom-nav .custom-next {
+        right: 1%;
+    }
+
+    .inner-project-cta .cta-overlay-1 {
+        top: 42%;
+        left: 65%;
+    }
+
+    .product-detail-overlay-2 img {
+        width: 18%;
+    }
+
+    .product-detail-overlay-2 {
+        right: 40%;
+    }
+
+    .inner-benefits .why-image img {
+        width: 35%;
+        margin-bottom: 20px;
+        height: auto;
+    }
+
+}
+
+
+@media screen and (max-width:880px) {
+    .about-overlay-image {
+        position: absolute;
+        top: 1%;
+        right: -10%;
+    }
+
+}
+
+@media screen and (max-width:820px) {
+    .inner-about .about-overlay-2 {
+        position: absolute;
+        top: 60%;
+        right: 18%;
+    }
+
+    .inner-about .about-overlay-2 img {
+        width: 45%;
+    }
+
+    .project-main-overlay {
+        top: 50%;
+        left: 59%;
+    }
+
+    .about-overlay-image img {
+        width: 60%;
+    }
+
+    .about-overlay-image {
+        position: absolute;
+        top: 4%;
+        right: -16%;
+    }
+
+    .about-shape-5 img {
+        width: 55%;
+    }
+
+    .about-shape-5 {
+        position: absolute;
+        top: -4%;
+        right: -16%;
+    }
+
+    .img-left {
+        justify-content: start;
+        padding-left: 50px;
+    }
+
+    .project-header::after {
+        width: 90%;
+    }
+
+    .benifits-left .item-1,
+    .benifits-left .item-2,
+    .benifits-left .item-3 {
+        position: absolute;
+        right: 51%;
+    }
+
+    .benifits-right .item-4,
+    .benifits-right .item-5,
+    .benifits-right .item-6 {
+        position: absolute;
+        left: 51%;
+    }
+}
+
+@media screen and (max-width:767px) {
+    header .navbar .navbar-brand img {
+        width: 90px;
+    }
+
+    .benifits-1 {
+        display: none;
+    }
+
+    .video-banner {
+        height: 500px;
+    }
+
+    footer .footer-bottom {
+        flex-direction: column;
+        text-align: center;
+        gap: 5px;
+    }
+
+    footer .footer-bottom .right img {
+        margin-left: 0;
+        margin-top: 5px;
+    }
+
+    .faq-right img {
+        display: none;
+    }
+
+    footer .contact-number a {
+        font-size: 54px;
+        letter-spacing: 6px;
+    }
+
+    footer {
+        padding: 34px 20px 10px 20px;
+    }
+
+    footer .footer-bottom {
+        margin-top: 20px;
+    }
+
+    footer .logo img {
+        max-height: 76px;
+        margin-bottom: 20px;
+    }
+
+    footer .footer-bottom {
+        font-size: 14px;
+        margin-top: 30px;
+        padding: 15px 0px;
+    }
+
+    .back-to-top {
+        width: 35px;
+        height: 35px;
+    }
+
+    .progress-ring {
+        width: 40x;
+        height: 40px;
+    }
+
+    .about-right {
+        display: none;
+    }
+
+    .inner-about .about-overlay-1 img {
+        width: 40%;
+    }
+
+    .inner-about .about-overlay-2 img {
+        width: 40%;
+    }
+
+    .project-wrap {
+        padding: 8px 0px;
+    }
+
+    .benifits-2 {
+        display: block;
+    }
+
+    .inner-benifits .container-fluid {
+        width: 95% !important;
+    }
+
+    .left-project ul li {
+        position: relative;
+        padding-left: 15px;
+        text-align: justify;
+    }
+
+    .inner-about .about-overlay-2 {
+        position: absolute;
+        top: 64%;
+        right: 0%;
+    }
+
+    .inner-about .about-left p {
+        text-align: justify;
+    }
+
+    .benifits-center {
+        display: none !important;
+    }
+
+    .inner-about {
+        padding: 55px 0px;
+    }
+
+    .inner-services .main-head {
+        font-size: 26px;
+        font-weight: 500;
+        letter-spacing: 2px;
+    }
+
+    .inner-cta {
+        width: 100%;
+        height: 225px;
+    }
+
+    .cat-inner-content h2 {
+        font-size: 20px;
+    }
+
+    .contact-left {
+        margin: 0px 10px;
+    }
+
+    .inner-form .form-overlay img {
+        width: 50%;
+    }
+
+    .inner-form .form-overlay {
+        top: 20%;
+    }
+
+    .project-main-overlay {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .inner-project .project-left .project-main {
+        height: 400px;
+    }
+
+    .inner-project .col-lh-6 {
+        display: flex;
+        justify-content: center !important;
+    }
+
+    .inner-project {
+        padding: 45px 0px;
+    }
+
+    .inner-project .container-fluid {
+        width: 95%;
+    }
+
+    .inner-project .project-left {
+        display: flex;
+        justify-content: center !important;
+        align-items: center;
+    }
+
+    .project-main-overlay p {
+        text-align: justify;
+    }
+
+    .project-main-overlay {
+        width: 100%;
+        max-width: 450px;
+    }
+
+    .inspired-right {
+        display: none !important;
+    }
+
+    .img-left {
+        justify-content: start;
+        padding-left: 10px;
+    }
+
+    .about-overlay-image {
+        position: absolute;
+        top: 0%;
+        right: -23%;
+    }
+
+    .about-shape-7 {
+        position: absolute;
+        top: 29%;
+        left: 25%;
+    }
+
+    .inner-about .about-overlay-2 {
+        position: absolute;
+        top: 46%;
+        right: 50%;
+    }
+
+    .about-shape-6 img {
+        width: 50%;
+    }
+
+    .about-shape-6 {
+        position: absolute;
+        top: 43%;
+        left: 0%;
+    }
+
+    .about-shape-5 {
+        position: absolute;
+        top: -12%;
+        right: -21%;
+    }
+
+    .about-shape-5 img {
+        width: 42%;
+    }
+
+    .about-shape-8 img {
+        width: 36%;
+    }
+
+    .about-shape-8 {
+        position: absolute;
+        bottom: -1%;
+        left: 22%;
+    }
+
+    .inner-about-2 {
+        padding: 10px 0px 40px 0px !important;
+    }
+
+    .inner-about .custom-btn {
+        margin: 23px 0px 0px 0px;
+    }
+
+    .navbar.scrolled {
+        background-color: #ffffff !important;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+        padding: 5px 0;
+        border-radius: 80px;
+        margin: 10px 15px;
+    }
+
+    .inner-about-cta {
+        padding: 26px 0px;
+    }
+
+    .subbanner-inner {
+        height: 300px;
+    }
+
+    .sub-banner-title {
+        position: absolute;
+        top: 33%;
+        left: 5%;
+    }
+
+    .subbanner-inner .breadcrumbs {
+        position: absolute;
+        bottom: 28%;
+        left: 15%;
+    }
+
+    .sub-banner-projet {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .subbanner-inner .projet-breadcrumbs {
+        position: absolute;
+        top: 65%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        z-index: 10;
+        padding: 0px 0px;
+        border-radius: 30px;
+        font-size: 16px;
+        display: inline-block;
+    }
+
+    .subbanner-inner .subbanner-para {
+        position: absolute;
+        right: 1%;
+        bottom: 24%;
+        font-size: 15px;
+    }
+
+    .cta-wrap {
+        padding: 25px 0px 0px 15px;
+        border-radius: 25px;
+    }
+
+    .services-card {
+        display: flex;
+        justify-content: center;
+        margin: 0px auto;
+        width: 100%;
+        max-width: 470px;
+        height: 230px !important;
+    }
+
+    .inner-project-cta .cta-overlay-1 {
+        top: 56%;
+        left: 56%;
+    }
+
+
+    .about-points {
+        gap: 5px;
+    }
+
+    .inner-choose {
+        padding-top: 10px;
+        padding-bottom: 20px;
+    }
+
+    .sub-banner-overlay {
+        position: absolute;
+        left: 50%;
+        bottom: -10%;
+    }
+
+    .about-points {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 1rem 2rem;
+        list-style: none;
+        padding: 0;
+        margin: 15px 0px;
+    }
+
+    .inner-choose .overlay-about-2 {
+        position: absolute;
+        top: 62%;
+        right: -22%;
+    }
+
+    .inner-choose .overlay-about-2 img {
+        width: 30%;
+    }
+
+    .service-none {
+        display: none !important;
+    }
+
+    .scrolling-text {
+        flex: 0 0 auto;
+        padding: 5px 20px;
+        font-weight: 600;
+        font-size: 16px;
+    }
+
+    .services-head::after {
+        content: '';
+        position: absolute;
+        width: 95%;
+    }
+
+    .services-head .main-head {
+        font-size: 26px;
+    }
+
+    .inner-about-faq .faq-overlay img {
+        width: 40%;
+    }
+
+    .inner-about-faq .faq-overlay {
+        position: absolute;
+        left: 2%;
+        bottom: 74%;
+    }
+
+    .inner-about-faq .faq-overlay-1 img {
+        width: 50%;
+    }
+
+    .benifits-overlay img {
+        width: 35%;
+    }
+
+    .our-feature {
+        font-size: 20px;
+    }
+
+    .filter-btns {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 4px
+    }
+
+    .project-inner {
+        padding: 8px 0px;
+    }
+
+    .inner-benifits .main-head {
+        font-size: 21px;
+    }
+
+    .project-cta-left h2 {
+        font-size: 22px;
+    }
+
+    .project-cta-right img {
+        width: 98%;
+    }
+
+    .product-detail-overlay-1 {
+        position: absolute;
+        right: -35%;
+        bottom: 0%;
+    }
+
+    .inspired-left {
+        padding-top: 20px;
+    }
+
+    .sub-banner-projet h2 {
+        font-size: 26px;
+    }
+
+
+}
+
+
+
+
+
+@media screen and (max-width:650px) {
+    .inner-project .container-fluid {
+        width: 90%;
+    }
+
+    .about-overlay-image {
+        position: absolute;
+        top: 2%;
+        right: -29%;
+    }
+
+    .about-overlay-image img {
+        width: 55%;
+    }
+
+    .cta-overlay {
+        position: absolute;
+        top: 0;
+        left: 65%;
+        width: 24%;
+    }
+
+    .inner-about-faq .container-fluid {
+        padding: 30px 0px 0px 0px;
+    }
+}
+
+@media screen and (max-width:600px) {
+
+    .about-overlay-image img {
+        width: 50%;
+    }
+
+    .inner-benefits .why-image img {
+        display: none;
+    }
+
+    .inner-benifits {
+        padding: 31px 0px;
+    }
+
+    .about-overlay-image {
+        position: absolute;
+        top: 3%;
+        right: -37%;
+    }
+
+    .inner-about {
+        padding: 32px 0px 10px 0px;
+    }
+
+    .about-shape-5 {
+        position: absolute;
+        top: -6%;
+        right: -22%;
+    }
+
+    .inner-benefits .main-head {
+        font-size: 26px;
+    }
+
+    .inner-benefits {
+        padding: 34px 0;
+    }
+
+    .arrow-overlay a i {
+        padding: 8px;
+    }
+
+    .app-icon-wrap .Btn {
+        width: 35px;
+        height: 35px;
+    }
+
+    .app-icon-wrap .sign svg {
+        width: 18px;
+    }
+
+}
+
+
+@media screen and (max-width:575px) {
+    .offcanvas {
+        max-width: 70%;
+    }
+
+    .video-banner {
+        height: 400px;
+    }
+
+    footer .contact-number a {
+        font-size: 48px;
+        letter-spacing: 4px;
+    }
+
+    footer .logo img {
+        max-height: 60px;
+        margin-bottom: 20px;
+    }
+
+    footer {
+        padding: 34px 0px 10px 0px;
+    }
+
+    footer nav.footer-nav {
+        margin-bottom: 21px;
+    }
+
+    .inner-about .about-overlay-1 {
+        top: 8%;
+        right: -36%;
+    }
+
+    .inner-about .about-overlay-2 {
+        position: absolute;
+        top: 64%;
+        right: -27%;
+    }
+
+    .benifits-2 .benifits-card h2 {
+        font-size: 20px;
+    }
+
+    .inner-about .about-overlay-2 img {
+        width: 30%;
+    }
+
+    .custom-btn a {
+        font-size: 14px;
+        padding: 6px 30px;
+    }
+
+    .main-head {
+        font-size: 32px;
+    }
+
+    .head-wrap-p {
+        display: flex;
+        justify-content: center !important;
+        align-items: center !important;
+        text-align: center !important;
+    }
+
+    .filter-btns {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-bottom: 25px;
+        justify-content: center !important;
+        margin: 20px 0px;
+        align-items: center;
+    }
+
+    .project-card {
+        width: 80%;
+    }
+
+    .product-detail-overlay-2 {
+        display: none;
+    }
+
+
+    .project-items a {
+        display: flex;
+        justify-content: center;
+    }
+
+    .custom-btn {
+        margin: 15px 0px 0px 0px;
+    }
+
+    .inner-about {
+        padding: 40px 0px;
+    }
+
+    .service-content {
+        padding: 14px 57px;
+    }
+
+    .service-content {
+        position: relative;
+        padding: 12px 15px;
+        overflow: hidden;
+        border-radius: 10px;
+        z-index: 1;
+    }
+
+
+    .service-content::after {
+        background: linear-gradient(to top, rgba(0, 0, 0, 0.6), rgba(255, 255, 255, 0.1));
+        filter: blur(15px);
+        opacity: 0.7;
+        pointer-events: none;
+        z-index: -1;
+        transition: all 0.5s ease;
+    }
+
+    .cta-overlay {
+        position: absolute;
+        top: 0;
+        left: 57%;
+        width: 32%;
+    }
+
+    .cat-inner-content a {
+        padding: 4px 3px;
+    }
+
+    .cat-inner-content {
+        position: absolute;
+        top: 62%;
+        left: 72%;
+    }
+
+    .btn-send {
+        padding: 8px 12px;
+        font-size: 14px;
+    }
+
+    .inner-form {
+        padding: 20px 0px;
+    }
+
+    .contact-left {
+        padding: 40px 12px;
+    }
+
+    .project-main-overlay p {
+        text-align: justify;
+    }
+
+    .project-main-overlay {
+        width: 100%;
+        max-width: 400px;
+    }
+
+    .project-main-overlay {
+        padding: 15px 15px 14px 15px;
+    }
+
+    .project-main-overlay p {
+        font-size: 15px;
+    }
+
+    .inner-project .main-head {
+        font-size: 22px;
+    }
+
+    .inner-project .container-fluid {
+        width: 98%;
+    }
+
+    .about-overlay-image img {
+        width: 43%;
+    }
+
+    .about-overlay-image {
+        position: absolute;
+        top: 5%;
+        right: -44%;
+    }
+
+    .about-shape-5 {
+        position: absolute;
+        top: -2%;
+        right: -22%;
+    }
+
+    .about-shape-5 img {
+        width: 30%;
+    }
+
+    .about-shape-5 {
+        position: absolute;
+        top: -2%;
+        right: -52%;
+    }
+
+    .about-shape-8 {
+        position: absolute;
+        bottom: 22%;
+        left: 41%;
+    }
+
+    .inner-inspired {
+        padding: 35px 0px;
+    }
+
+    .inner-about .custom-btn {
+        margin: 5px 0px 0px 0px;
+    }
+
+    .project-overlay-1 {
+        position: absolute;
+        top: 8%;
+        left: 35%;
+    }
+
+    .offcanvas-brand img {
+        max-height: 40px !important;
+    }
+
+    .subbanner-inner .subbanner-para {
+        display: none;
+    }
+
+    .subbanner-inner {
+        height: 270px;
+    }
+
+    .sub-banner-title {
+        position: absolute;
+        top: 48%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+        z-index: 10;
+    }
+
+    .subbanner-inner .breadcrumbs {
+        position: absolute;
+        top: 65%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .sub-banner-title h2 {
+        font-size: 30px;
+    }
+
+    .sub-banner-projet h2 {
+        font-size: 24px;
+    }
+
+    .cta-left p {
+        font-size: 15px;
+    }
+
+    .inner-project-cta .cta-overlay-1 {
+        top: 56%;
+        left: 73%;
+    }
+
+    .cta-left h2 {
+        font-size: 21px;
+    }
+
+    .subbanner-inner .breadcrumbs {
+        padding: 5px 3px;
+        font-size: 16px;
+    }
+
+    .faq-left .accordion-button {
+        font-size: 16px;
+        padding: 6px 10px;
+    }
+
+    .inner-about-faq .main-head {
+        font-size: 24px;
+    }
+
+    .faq-img {
+        display: none;
+    }
+
+    .faq-left .accordion-body {
+        gap: 10px;
+        padding: 10px 15px;
+    }
+
+    .inner-choose .main-head {
+        font-size: 28px;
+    }
+
+    .service-content p {
+        font-size: 15px;
+    }
+
+    .service-content h3 {
+        font-size: 20px;
+    }
+
+    .services-inner .main-head {
+        font-size: 24px;
+    }
+
+    .card-services {
+        padding: 30px 10px 10px 10px;
+    }
+
+    .inner-about-faq .faq-overlay img {
+        width: 30%;
+    }
+
+    .project-inner .project-header img {
+        border-radius: 200px;
+        width: 45px;
+        margin: 0 6px;
+    }
+
+    .project-cta-right img {
+        display: none;
+    }
+
+    .inner-project-cta .container-fluid::after {
+        bottom: -60%;
+    }
+
+    .gallery-inner {
+        padding: 40px 0px;
+    }
+
+    .gallery-inner .main-head {
+        font-size: 24px;
+    }
+
+    .product-detail-overlay-1 {
+        position: absolute;
+        right: -72%;
+        bottom: 2%;
+    }
+
+    .product-detail-overlay-1 img {
+        width: 16%;
+    }
+
+    .benifits-overlay {
+        top: 8%;
+    }
+
+
+
+}
+
+@media screen and (max-width:425px) {
+    .offcanvas {
+        max-width: 80%;
+    }
+
+    .video-banner {
+        height: 350px;
+    }
+
+    .project-inner .main-head {
+        font-size: 18px;
+    }
+
+    footer .footer-bottom {
+        font-size: 12px;
+    }
+
+    footer .contact-number a {
+        font-size: 42px;
+    }
+
+    .inner-about .about-overlay-1 img {
+        width: 28%;
+    }
+
+    .inner-about .about-overlay-1 {
+        top: 8%;
+        right: -56%;
+    }
+
+    .inner-about .about-left p {
+        font-size: 15px;
+    }
+
+    .cta-overlay {
+        position: absolute;
+        top: 0;
+        left: 54%;
+        width: 36%;
+    }
+
+    .inner-cta {
+        width: 100%;
+        height: 180px;
+    }
+
+    .contact-left {
+        margin: 0px 5px;
+    }
+
+    .project-main-overlay {
+        width: 100%;
+        max-width: 350px;
+    }
+
+    .about-shape-4 img {
+        width: 25%;
+    }
+
+    .about-shape-4 {
+        position: absolute;
+        top: -1%;
+        left: 1%;
+    }
+
+    .main-head {
+        font-size: 24px;
+    }
+
+    .about-shape-5 {
+        position: absolute;
+        top: -2%;
+        right: -67%;
+    }
+
+    .arrow-overlay a i {
+        padding: 6px;
+    }
+
+    .arrow-overlay a {
+        color: #000;
+        border-radius: 50%;
+        font-weight: 600;
+        font-size: 18px;
+        border: 8px solid #fff;
+    }
+
+    .arrow-overlay {
+        position: absolute;
+        top: -45%;
+        right: 10%;
+    }
+
+    .inner-benefits .main-head {
+        font-size: 24px;
+    }
+
+    .navbar.scrolled {
+        padding: 5px 0;
+    }
+
+    .project-cta-left h2 {
+        font-size: 20px;
+    }
+
+    .project-cta-left h4 {
+        font-size: 16px;
+    }
+
+    .inner-project-cta .container-fluid::before {
+        top: -25%;
+    }
+
+    .inner-project-cta .container-fluid::after {
+        bottom: -64%;
+    }
+
+    .inner-benefits .main-head {
+        font-size: 22px;
+    }
+
+}
+
+@media screen and (max-width:375px) {
+
+    .inner-about .about-overlay-1 {
+        top: 8%;
+        right: -73%;
+    }
+
+    .product-detail-overlay-1 {
+        position: absolute;
+        right: -89%;
+    }
+
+    .inner-about .about-overlay-2 {
+        position: absolute;
+        top: 64%;
+        right: -47%;
+    }
+
+    .cat-inner-content a {
+        padding: 4px 1px;
+    }
+
+    .project-main-overlay {
+        width: 100%;
+        max-width: 310px;
+    }
+
+    .about-overlay-image {
+        position: absolute;
+        top: 3%;
+        right: -44%;
+    }
+}
