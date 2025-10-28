@@ -57,8 +57,10 @@
                   <h2 class="main-head">Turning Every <span>Plot</span> into a Pathway to Prosperity</h2>
 
                   <p>
-                    <i class="bi bi-arrow-right-short"></i> Heaven Key isn’t just about selling plots — it’s about helping you find the perfect space that feels like heaven on earth.
-                    Every plot we offer is carefully chosen for its growth potential, positive surroundings, and lasting value.
+                    <i class="bi bi-arrow-right-short"></i>
+                    Heaven Key isn’t just about selling plots — it’s about helping you find the perfect space that feels like heaven on earth.
+                    Every plot we offer is carefully chosen for its growth potential, positive surroundings,
+                    and <strong> the sound of nature</strong> that brings peace to everyday living — creating a space of lasting comfort and value.
                   </p>
 
                   <ul class="about-points">

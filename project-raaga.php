@@ -97,9 +97,9 @@
                     <div class="product-detail-overlay-1">
                         <img src="./assets/image/shapes/music-1.png" class="img-fluid" alt="">
                     </div>
-                    <div class="product-detail-overlay-2">
+                    <!-- <div class="product-detail-overlay-2">
                         <img src="./assets/image/shapes/music-3.png" class="img-fluid" alt="">
-                    </div>
+                    </div> -->
             </section>
 
             <!-- scrolling section -->

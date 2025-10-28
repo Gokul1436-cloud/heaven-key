@@ -9,11 +9,26 @@
 <div class="cursor-dot"></div>
 
 
-<!-- preloader -->
-<!-- <div id="uniquePreloader" class="unique-preloader">
-    <div class="unique-ball"></div>
-    <div class="unique-shadow"></div>
-</div> -->
+<!-- === Full Preloader === -->
+ <div id="uniquePreloader">
+  <div class="preloader-content">
+    <img src="./assets/image/heavenkey.png" alt="Logo" class="preloader-logo" />
+    <div class="loader">
+      <div class="loader-inner">
+        <div class="loader-block"></div>
+        <div class="loader-block"></div>
+        <div class="loader-block"></div>
+        <div class="loader-block"></div>
+        <div class="loader-block"></div>
+        <div class="loader-block"></div>
+        <div class="loader-block"></div>
+        <div class="loader-block"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
 
 
 
@@ -24,7 +39,7 @@
 
         <div class="container-fluid">
             <a class="navbar-brand fw-bold" href="index.php">
-                <img src="./assets/image/heavenkey.png" class="img-fluid logo" alt="Logo">
+                <img src="./assets/image/heavenskey.png" class="img-fluid logo" alt="Logo">
             </a>
             <button class="navbar-toggler  d-lg-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasMenu" aria-controls="offcanvasMenu">
                 <i class="bi bi-list"></i>
@@ -139,7 +154,6 @@
 
 <!-- WhatsApp Floating Button -->
 <div class="app-icon-wrap">
-
     <a
         href="https://wa.me/+917373337773"
         target="_blank"

@@ -80,19 +80,19 @@
 <script>
     window.addEventListener('load', function() {
         const preloader = document.getElementById('uniquePreloader');
+        const fadeDuration = 1000; // 1s fade
+        const showDuration = 2000; // stays visible for 2s
 
-        const fadeDuration = 1200;
-
-        // Fade out
-        preloader.style.transition = `opacity ${fadeDuration}ms ease`;
-        preloader.style.opacity = '0';
-
+        // Fade out after delay
         setTimeout(() => {
-            preloader.style.display = 'none';
-        }, fadeDuration);
+            preloader.style.transition = `opacity ${fadeDuration}ms ease`;
+            preloader.style.opacity = '0';
+            setTimeout(() => {
+                preloader.style.display = 'none';
+            }, fadeDuration);
+        }, showDuration);
     });
 </script>
-
 
 
 

@@ -23,7 +23,6 @@
 
         <main>
 
-
             <!-- Video Banner Section -->
             <section class="video-banner">
                 <video autoplay muted loop playsinline class="banner-video">
@@ -40,20 +39,19 @@
                 <div class="inner-about position-relative">
                     <div class="container">
                         <div class="row">
-                            <!-- ammpel -->
                             <!-- Left Column -->
                             <div class="col-lg-6 col-md-6 d-flex justify-content-center align-items-center">
                                 <div class="about-left">
                                     <h4 class="sub-head wow animate__animated animate__fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s">About Us</h4>
 
                                     <h2 class="main-head wow animate__animated animate__fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
-                                        Welcome To <br> Heaven Key
+                                        Welcome To Heaven Key <br> <span>"The Sound Of Nature"</span>
                                     </h2>
 
                                     <p class="wow animate__animated animate__fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s">
                                         At Heaven Key, we specialize in <strong>exclusive hillside plots</strong> designed for those who seek peace, nature, and a truly serene lifestyle.
                                         Every plot offers <strong>breathtaking views, fresh mountain air, and the perfect blend of privacy and community</strong>.
-                                        Whether you’re planning your dream home or an investment for the future, our plots provide **a harmonious connection with nature**, making every day feel refreshing, calm, and inspired.
+                                        Whether you’re planning your dream home or an investment for the future, our plots provide <strong>a harmonious connection with nature</strong>, making every day feel refreshing, calm, and inspired.
                                     </p>
 
                                     <div class="custom-btn wow animate__animated animate__fadeInUp" data-wow-duration="1s" data-wow-delay="0.7s">
@@ -228,8 +226,11 @@
                                 <h4 class="sub-head">Serene Living</h4>
                                 <h2 class="main-head">Raaga Hillside Plots</h2>
                                 <p>
-                                    Discover <strong>Raaga Hillside Plots</strong> — exclusive, serene plots designed for privacy and panoramic views. Nestled on gentle slopes, each plot ensures natural sunlight and personal space. Perfect for families seeking a peaceful lifestyle immersed in nature, combining eco-friendly planning, comfort, and tranquility in one harmonious retreat.
+                                    Discover <strong>Raaga Hillside Plots</strong> — exclusive, serene spaces designed for privacy and panoramic views.
+                                    Nestled on gentle slopes, each plot welcomes natural sunlight, fresh breezes, and <strong> the  sound of nature</strong>.
+                                    Perfect for families seeking a peaceful, eco-friendly lifestyle that blends comfort, greenery, and tranquility in one harmonious retreat.
                                 </p>
+
                                 <div class="custom-btn">
                                     <a href="project-raaga.php">Explore Raaga</a>
                                 </div>
@@ -531,7 +532,6 @@
 
                 </div>
             </section>
-
 
         </main>
 
